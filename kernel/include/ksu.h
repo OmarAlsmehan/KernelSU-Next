@@ -6,7 +6,7 @@
 #include <linux/cred.h>
 
 #define KERNEL_SU_VERSION KSU_VERSION
-#define KERNEL_SU_VERSION_TAG KSU_VERSION_TAG
+#define KERNEL_SU_VERSION_TAG legacy
 
 #define EVENT_POST_FS_DATA 1
 #define EVENT_BOOT_COMPLETED 2
